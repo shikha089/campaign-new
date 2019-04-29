@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import CampaignDetails from "./components/campaigndetails"; //Imports Campaign table from campaigndetails.
+import data from "./data.json"
 
 
 class App extends Component {
