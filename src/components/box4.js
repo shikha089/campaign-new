@@ -17,9 +17,10 @@ class Box4 extends Component {
                         </div>
                         <div className="d_cell p_relative">
                             <div className="d_inline_block icon" onClick={this.props.onClick}><img className="img_4" src="https://i.imgur.com/VFFOjPk.png" alt="calendar"/>
-                                <div id={this.props.id2} className="cal" style={{ display: "none" }}>
-                                    <Cal /></div>
+                                
                             </div>
+                            <div id={this.props.id2} className="cal" style={{ display: "none" }}>
+                                    <Cal /></div>
                             <br />
                             <span className="small_font cname">SHEDULE AGAIN</span>
                         </div>
