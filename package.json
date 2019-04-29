@@ -2,7 +2,7 @@
   "name": "tests",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shikha089/.github.io/campaign-new",
+  "homepage": "https://shikha089.github.io/campaign-new",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "live-server": "^1.2.1",
